@@ -1,0 +1,32 @@
+$primary-color: black;
+$secondary-color: blue;
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body {
+    margin: 0, auto;
+}
+
+h1 {
+    color: $primary-color;
+    font-size: 14px;
+    font-weight: 100;
+    
+}
+h2 {
+    color: $primary-color;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+b {
+    font-weight: 500;
+}
+img {
+    margin: 0, auto;
+}
+
